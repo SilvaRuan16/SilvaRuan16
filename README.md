@@ -21,25 +21,32 @@ Atualmente, sou graduando em **Sistemas de Informação** (5º período) e busco
 ## 🚀 Projetos em Destaque
 
 ### 📱 Bíblia & Harpa (Sem Anúncios)
-<p align="center">
-  <img src="newLogoIcon.png" alt="Logo Bíblia e Harpa" width="120px" style="border-radius: 20%;"/>
-</p>
 
-Aplicativo mobile publicado na Google Play Store focado em leitura de texto e áudio de forma fluida. O projeto foi idealizado para aplicar conceitos avançados de interface e entender a fundo as diretrizes de publicação da loja.
+<table>
+  <tr>
+    <td align="center" valign="middle" width="160px">
+      <img src="newLogoIcon.png" alt="Logo Bíblia e Harpa" width="120px" style="border-radius: 20%;"/>
+    </td>
+    <td valign="top">
+      <p>Aplicativo mobile publicado na Google Play Store focado em leitura de texto e áudio de forma fluida. O projeto foi idealizado para aplicar conceitos avançados de interface e entender a fundo as diretrizes de publicação da loja.</p>
+      <p><b>🚀 Tecnologias:</b> Flutter, SharedPreferences, Hive, MVVM (Provider como View Model)</p>
+    </td>
+  </tr>
+</table>
 
----
+### 🌾 Agrohub (Feira Virtual e ERP integrados)
 
-### 🌾 Agrohub & GerenciaMais (Feira Virtual e ERP)
-<p align="center">
-  <img src="Logo-agrotech.png" alt="Logo Agrohub" width="150px"/>
-</p>
-
-Uma plataforma integrada que une um *marketplace* descentralizado para o agronegócio (conectando produtores de alimentos diretamente ao consumidor final) e um sistema ERP robusto para gestão corporativa.
-
-* **Desafio Técnico:** Modelagem de banco de dados relacional para consistência de inventário e vendas, isolamento de ambientes de desenvolvimento com contêineres e criação de APIs REST seguras e escaláveis.
-* **Tecnologias:** Java (Spring Boot), PostgreSQL, MySQL, Docker.
-
----
+<table>
+  <tr>
+    <td align="center" valign="middle" width="180px">
+      <img src="Logo-agrotech.png" alt="Logo Agrohub" width="150px"/>
+    </td>
+    <td valign="top">
+      <p>Uma plataforma integrada que une um <i>marketplace</i> descentralizado para o agronegócio (conectando produtores de alimentos diretamente ao consumidor final) e um sistema ERP robusto para gestão corporativa.</p>
+      <p><b>🚀 Tecnologias:</b> Java (Spring Boot), PostgreSQL, H2, Flutter, Docker, SQLite</p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Formação e Certificações
 
@@ -50,8 +57,7 @@ Uma plataforma integrada que une um *marketplace* descentralizado para o agroneg
 
 ---
 
-## 📫 Vamos nos conectar?
+## Contatos
 
 * **LinkedIn:** [in/ruanslv16](https://linkedin.com/in/ruanslv16)
-* **GitHub:** [github.com/SilvaRuan16](https://github.com/SilvaRuan16)
 * **E-mail:** [ruan.work16@gmail.com](mailto:ruan.work16@gmail.com)
