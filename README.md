@@ -1,8 +1,10 @@
-# Olá, eu sou o Ruan! 👋
+# Ruan Gustavo Soares da Silva
 
-Para mim, a tecnologia vai além de linhas de código: trata-se de construir soluções eficientes, limpas e seguras. Iniciei minha trajetória na tecnologia aos 15 anos e, desde então, desenvolvi uma forte paixão pela programação. 
+Tive os meus primeiros contatos com a área de TI aos 15 anos quando realizei um curso de informática básica junto a minha mãe, desde então eu adentrei na área e desenvolvi cada vez mais interesse em segurança cibernética e baixo nível.
 
-Atualmente, sou graduando em **Sistemas de Informação** (5º período) e busco me especializar no setor de **Segurança da Informação**, com foco em aplicações backend e modelagem de bancos de dados.
+Tenho capacidade, responsabilidade e interesse para lidar com infraestrutura, engenharia, analise, suporte e gestão ágil de projetos, além de buscar conhecimento e pensamento crítico em como posso fornecer segurança e boa performance em dispositivos antigos e atuais.
+
+Atualmente me encontro graduando em Sistema de Informação, mas pretendo extender para Engenharia de Software e após isso iniciar uma pós-graduação em Segurança da Informação e Hacking Pentester.
 
 ---
 ## 🛠️ Stack Principal
@@ -20,7 +22,7 @@ Atualmente, sou graduando em **Sistemas de Informação** (5º período) e busco
 * cURL
 ## 🚀 Projetos em Destaque
 
-### 📱 Bíblia & Harpa - sem anúncios
+### <img src="playstore.png" alt="Logo Playstore" width="20px" style="border-radius: 20%;"/><a href="https://play.google.com/store/apps/details?id=com.bibleAplication.app"> Bíblia & Harpa - sem anúncios</a>
 
 <table>
   <tr>
@@ -28,8 +30,10 @@ Atualmente, sou graduando em **Sistemas de Informação** (5º período) e busco
       <img src="newLogoIcon.png" alt="Logo Bíblia e Harpa" width="120px" style="border-radius: 20%;"/>
     </td>
     <td valign="top">
-      <p>Aplicativo mobile publicado na Google Play Store focado em leitura de texto e áudio de forma fluida. O projeto foi idealizado para aplicar conceitos avançados de interface e entender a fundo as diretrizes de publicação da loja.</p>
-      <p><b>🚀 Tecnologias:</b> Flutter, SharedPreferences, Hive, MVVM (Provider como View Model), Playstore</p>
+      <p>Aplicativo Mobile para leitura Bíblica e conteúdos sagrados com meta de expansão para Multiplataforma, assim consolidando o público android e almejando alcançar os projetores das igrejas e parte do público IOS.</p>
+      <p><b>🚀 Tecnologias:</b> Flutter, SharedPreferences, Hive</p>
+      <p><b>🚀 Arquitetura:</b> Refatorando para MVVM + Service (Provider como View Model)</p>
+      <p><b>🚀 Automação:</b> GNU/Bash</p>
     </td>
   </tr>
 </table>
@@ -38,12 +42,14 @@ Atualmente, sou graduando em **Sistemas de Informação** (5º período) e busco
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="180px">
-      <img src="Logo-agrotech.png" alt="Logo Agrohub" width="150px"/>
+    <td align="center" valign="middle" width="160px">
+      <img src="novoiconagro.png" alt="Logo Agrohub" width="120px" style="border-radius: 20%;"/>
     </td>
     <td valign="top">
-      <p>Uma plataforma integrada que une um <i>marketplace</i> descentralizado para o agronegócio (conectando produtores de alimentos diretamente ao consumidor final) e um sistema ERP robusto para gestão corporativa.</p>
-      <p><b>🚀 Tecnologias:</b> Javaspring, PostgreSQL, H2, Flutter, Docker, SQLite</p>
+      <p>Uma plataforma integrada que une um <i>marketplace</i> centralizada para o agronegócio (conectando produtores de alimentos diretamente ao consumidor final) e um sistema ERP robusto para gestão corporativa.</p>
+      <p><b>🚀 Tecnologias:</b> Flutter, SharedPreferences, Sqlite, Java, Spring boot, Postgres, H2, Docker</p>
+      <p><b>🚀 Arquitetura:</b> Frontend: SetState padrão. Backend: Feature Based + MVC + Service</p>
+      <p><b>🚀 Automação:</b> GNU/Bash</p>
     </td>
   </tr>
 </table>
